@@ -32,11 +32,11 @@ El desarrollo incluye los siguientes modelos y diagramas:
 
 ##  Autores
 
-- Leandro Mulato — C.I: 31.394.067  
-- Giovanny Rendón — C.I: 31.528.032  
-- Daniel Romero — C.I: 31.307.643  
-- Jaime Patiño — C.I: 31.604.037  
-- Nestor Girón — C.I: 30.314.018  
+- Leandro Mulato — C.I: 31.394.067   (MrJosueGGs)
+- Giovanny Rendón — C.I: 31.528.032  (Giova12345557)
+- Daniel Romero — C.I: 31.307.643    (Danitrocs)
+- Jaime Patiño — C.I: 31.604.037     (jhairt-06)
+- Nestor Girón — C.I: 30.314.018     (HUMO74)
 - **Profesora:** Yuly Delgado
 
 ##  Enlaces al Proyecto
